@@ -33,7 +33,7 @@ Disallow:
 
 User-agent: *
 Allow: /
-Sitemap: https://chervetred.github.io/sitemap.xml
+Sitemap: https://chervepedia.github.io/sitemap.xml
 
 User-agent: Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
 User-agent: Mozilla/5.0 (compatible; YandexMedia/3.0; +http://yandex.com/bots)
